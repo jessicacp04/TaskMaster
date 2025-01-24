@@ -45,4 +45,79 @@ Diseñada para resolver problemas comunes de organización en equipos de trabajo
    `python manage.py migrate`  
 
 5. **Iniciar el servidor de desarrollo:**  
-   `python manage.py runserver`  
+   `python manage.py runserver`
+
+   ---
+
+## Uso de la Aplicación
+
+1. Accede a la aplicación desde tu navegador en `http://127.0.0.1:8000/`.
+2. Regístrate o inicia sesión.
+3. Crea proyectos y/o tareas.
+4. Asigna tareas a los miembros del equipo y realiza un seguimiento.
+
+---
+
+## Funcionalidades Principales
+
+1. Gestión de tareas:
+   - Crear, editar y eliminar tareas.
+   - Organizar tareas por prioridad.
+
+2. Colaboración en equipo:
+   - Asignar tareas a usuarios específicos.
+   - Notificaciones en tiempo real.
+
+3.*Vistas personalizables:
+   - Kanban para un flujo de trabajo visual.
+   - Tablas para un seguimiento detallado.
+
+4. Sincronización en la nube:
+   - Accede a tus proyectos desde cualquier dispositivo.
+
+---
+
+
+## Contribución
+
+
+- [ ] Mejorar la documentación.
+- [ ] Añadir soporte para múltiples idiomas.
+- [ ] Crear pruebas automatizadas para garantizar la calidad del código.
+
+Para contribuir, sigue estos pasos:
+
+1. Haz un fork del repositorio.
+2. Crea una rama con tu nueva funcionalidad: `git checkout -b nueva-funcionalidad`.
+3. Haz tus cambios y realiza un commit: `git commit -m "Añadir nueva funcionalidad"`.
+4. Envía un pull request explicando tus cambios.
+
+---
+
+## Licencia
+
+Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo `LICENSE` para más información.
+
+---
+
+## Dependencias
+
+| Herramienta                    | Versión |
+|----------------------------------|---------|
+| Python                            | 3.10    |
+| Django                            | 4.2     |
+| Django Rest Framework | 3.14 |
+
+---
+
+## Enlaces
+
+- [Repositorio en GitHub](https://github.com/tu-usuario/taskmaster)
+- [Documentación Oficial de Django](https://docs.djangoproject.com/)
+- [Demostración en Vivo](https://demo.taskmaster.com)
+
+---
+
+
+
+
