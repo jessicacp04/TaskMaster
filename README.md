@@ -112,7 +112,7 @@ Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo `LICENS
 
 ## Enlaces
 
-- [Repositorio en GitHub](https://github.com/tu-usuario/taskmaster)
+- [Repositorio en GitHub]([https://github.com/jessicacp04/TaskMaster/tree/main])
 - [Documentación Oficial de Django](https://docs.djangoproject.com/)
 - [Demostración en Vivo](https://demo.taskmaster.com)
 
